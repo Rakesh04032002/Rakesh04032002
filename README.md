@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rakesh04032002
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning B.tech (CSE)
+- 🌱 I’m currently pursuing B.tech (CSE)
 - 💞️ I’m looking to collaborate on Codechef 
 - 📫 How to reach me ry9048095@gmail.com
 
